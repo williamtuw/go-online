@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Gameview">
+    <file>Resources/静音.png</file>
+    <file>Resources/return (1).png</file>
+    <file>Resources/声音 .png</file>
+  </qresource>
+</RCC>
