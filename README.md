@@ -1,4 +1,4 @@
-# This is a gobang game, player can play with ohter players.william 2018.
+# This is a go game, player can play with ohter players.william 2018.
 
 This is a Qt-c++ project build with visual sdudio, you can see solution file here.
 It  may help you learn how to make a middle Qt project.
